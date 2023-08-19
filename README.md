@@ -2,7 +2,7 @@
 
 ## Missing Subjects:
 
-Electronics Devices and Circuit
+- Electronics Devices and Circuit
 
 ## For more resources:
 
