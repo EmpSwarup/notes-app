@@ -23,6 +23,21 @@ a:active {
   text-decoration: none;
 }
 
+.gitl {
+  font-size: 35px;
+}
+
+.mark {
+  font-size: 36px; /* Adjust the font size as needed */
+  color: rgb(95, 238, 0); /* Set the text color */
+
+  /* Additional styles for marquee */
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .container-title {
   display: flex;
   align-items: center;
