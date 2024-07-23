@@ -1,8 +1,8 @@
 # Computer Engineering Notes Pokhara University
 
-## Missing Subjects:
+## All subjects added!! (Except projects and electives obviously)
 
-- Electronics Devices and Circuit
+## Add and issue or contact if any problems
 
 ## For more resources:
 
